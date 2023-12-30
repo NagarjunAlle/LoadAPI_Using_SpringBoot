@@ -3,12 +3,17 @@ Open application.properties and Set the username and userpassword according to t
 After that run the project as SpringBootApp
 Install Postman and hit the below APIs
 This API has total 
- i)Get https:/localhost:8080/loads  
+ i)Get https:/localhost:8080/loads 
+ 
    Response:
        returns all the loads in the database
+
+       
  ii)Get https:/localhost:8080/loads/id 
-    R
+    Response:
         return the load associated with the id
+
+        
  iii)Post https:/localhost:8080/loads  => creates new load and adds to the database
           BODY:
                {
