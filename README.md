@@ -10,8 +10,10 @@ This API has total
 
        
  ii)Get https:/localhost:8080/loads/id 
+ 
     Response:
         return the load associated with the id
+
 
         
  iii)Post https:/localhost:8080/loads  => creates new load and adds to the database
