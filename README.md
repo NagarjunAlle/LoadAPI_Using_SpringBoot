@@ -3,6 +3,9 @@ Open application.properties and Set the username and userpassword according to t
 After that run the project as SpringBootApp
 Install Postman and hit the below APIs
 This API has total 
+
+
+
  i)Get https:/localhost:8080/loads 
  
    Response:
